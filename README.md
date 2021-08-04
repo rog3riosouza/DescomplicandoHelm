@@ -1,4 +1,4 @@
-# DescomplicandoHelm
+# DescomplicandoHelm version Roger
 
 A ideia do treinamento é descomplicar a utilização do Helm e facilitar o entendimento dos Helm Chart.
 Com isso, teremos muito mais facilidade em realizar o deploy de nossas aplicações.
